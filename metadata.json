@@ -1,0 +1,6 @@
+{
+  "name": "Programming Concept Assignment Support",
+  "description": "A comprehensive interactive PWA for Computer Science programming experiments using a scientific model approach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
